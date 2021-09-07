@@ -59,4 +59,22 @@ else:
             print(2)
         else:
             print(0)
+```.py
+
+## 6 Chess board-same colour
+```.py
+n1 = int(input('Please enter your first number.'))
+n2 = int(input('Please enter your second number.'))
+n3 = int(input('Please enter your third number.'))
+n4 = int(input('Please enter your fourth number.'))
+if (n1+n2) % 2:
+    if (n3+n4) % 2:
+        print('YES')
+    else:
+        print('NO')
+else:
+    if (n3+n4) % 2:
+        print('NO')
+    else:
+        print('YES')
 ```
