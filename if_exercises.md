@@ -62,7 +62,6 @@ else:
 ```.py
 
 ## 6 Chess board-same colour
-
 ```.py
 n1 = int(input('Please enter your first number.'))
 n2 = int(input('Please enter your second number.'))
@@ -79,7 +78,6 @@ else:
     else:
         print('YES')
 ```
-
 ##  7 King move
 
 ```.py
