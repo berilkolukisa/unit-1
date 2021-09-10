@@ -54,3 +54,12 @@ for i in range (1,number+1):
     factorial=factorial*i
 print(factorial)
 ```
+
+## Exercise 7 Number of Zeros
+
+## Exercise 8 Adding Factorials
+
+## Exercise 9 Ladder
+
+## Exercise 10 Lost Card
+
