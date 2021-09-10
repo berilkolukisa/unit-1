@@ -45,6 +45,12 @@ print(sum)
 ```
 
 ## Exercise 5 Sum of cubes
+```.py
+s=0
+number=int(input('Please enter your number.'))
+for i in range (1,number+1):
+    s+=i**3
+print(s)
 
 ## Exercise 6 Factorial
 ```.py
