@@ -54,6 +54,7 @@ print(s)
 ```
 
 ## Exercise 6 Factorial
+```.py
 factorial=1
 sum=0
 n=int(input('Please enter your number.'))
