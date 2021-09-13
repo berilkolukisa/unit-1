@@ -54,7 +54,13 @@ print(s)
 ```
 
 ## Exercise 6 Factorial
-```.py
+factorial=1
+sum=0
+n=int(input('Please enter your number.'))
+for i in range (1,n+1):
+    factorial *= i
+    sum += factorial
+print(sum)
 number=int(input('Please enter the number you want to calculate factorial of.'))
 factorial=1
 for i in range (1,number+1):
@@ -65,7 +71,15 @@ print(factorial)
 ## Exercise 7 Number of Zeros
 
 ## Exercise 8 Adding Factorials
-
+```.py
+factorial=1
+sum=0
+n=int(input('Please enter your number.'))
+for i in range (1,n+1):
+    factorial *= i
+    sum += factorial
+print(sum)
+```
 ## Exercise 9 Ladder
 
 ## Exercise 10 Lost Card
