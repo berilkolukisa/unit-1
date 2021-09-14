@@ -70,6 +70,16 @@ print(factorial)
 ```
 
 ## Exercise 7 Number of Zeros
+```.py
+zeronumber=0
+n=int(input('Please enter your numbers.'))
+for i in range (n):
+    n = int(input("please enter a number"))
+    input==n
+    if n==0:
+        zeronumber += 1
+print(zeronumber)
+```
 
 ## Exercise 8 Adding Factorials
 ```.py
