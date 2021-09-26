@@ -22,3 +22,6 @@ Here below are the two basic principles for human-centered design:
 
 Discoverability:How much of a product you can understand about how it works, just by looking at it's design. My example would be buying a product which has instructions on itseld about how to use a product but it's in another language. How much you can understand about the usage of the product will be 'discoverability'.
 Feedback: A simple thing that the product does which will help you understand that you used the product in the right way. For example the little light on the powerbanks which light up once you plug in a device or photography machines making a 'click' voice once you touch the right button.
+
+## Question/5
+## Consider your game. Think about ways you can improve the Players’ Experience using Human-centered design.  
