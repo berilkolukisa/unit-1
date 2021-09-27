@@ -24,4 +24,6 @@ Discoverability:How much of a product you can understand about how it works, jus
 Feedback: A simple thing that the product does which will help you understand that you used the product in the right way. For example the little light on the powerbanks which light up once you plug in a device or photography machines making a 'click' voice once you touch the right button.
 
 ## Question/5
-## Consider your game. Think about ways you can improve the Players’ Experience using Human-centered design.  
+## Consider your game. Think about ways you can improve the Players’ Experience using Human-centered design. 
+
+I think one spesific thing that I can do to improve the player's experience while playing the game is starting with a prototype and then asking the test-user to have a video record of them playing the game . This way we can see which parts of the game is hard to understand or concerning for the user, by the way that they might double-click a text or try to type in something that is out of context. This way we can see how a general player would react to our game.
